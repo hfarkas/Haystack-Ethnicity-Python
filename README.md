@@ -3,5 +3,5 @@ Using the haystack artificial intelligence API
 
 ### How to use
 ```
-python age.py image.jpeg
+python ethnicity.py image.jpeg
 ```
