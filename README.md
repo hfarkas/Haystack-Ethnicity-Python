@@ -1,5 +1,5 @@
 # Haystack Ethnicity Python
-Using the haystack artificial intelligence API 
+Determine the ethnicity of a person using his/her picture and the haystack artificial intelligence API 
 
 ### How to use
 ```
